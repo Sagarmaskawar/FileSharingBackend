@@ -17,6 +17,7 @@
     "@babel/preset-env": "^7.24.5",
     "abort-controller": "^3.0.0",
     "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mongodb": "^6.6.1",
     "mongoose": "^8.3.4",
